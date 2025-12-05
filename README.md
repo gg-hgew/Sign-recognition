@@ -64,9 +64,7 @@ To get started with the Realtime Sign Language Detection Using LSTM Model, follo
 
 1. Clone the repository:
 
-```shell
-git clone https://github.com/AvhishekAdhikary/Realtime-Sign-Language-Detection-Using-LSTM-Model.git
-```
+
 2. Install Dependencies:
 
   ```shell
@@ -90,6 +88,3 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 
 This section states that the Realtime Sign Language Detection Using LSTM Model project is released under the MIT License. It briefly describes the terms and conditions of the license, such as the permission to use, modify, and distribute the project, with appropriate attribution. It provides a link to the full text of the MIT License for further reference.
 
-## Contact
-
-For any questions or inquiries, feel free to contact me at avhishe.adhikary11@gmail.com.
