@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Dataset (NOT needed on GitHub)
+MP_Data_Custom/
+
+# Python cache
+__pycache__/
+
+# VS Code internal files
+.vscode/
+
+# Model weights (optional)
+*.h5
+*.keras
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Windows trash
+Thumbs.db
